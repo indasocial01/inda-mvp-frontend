@@ -1,4 +1,4 @@
-# 🚀 IndaSocial MVP - 4 Day Sprint
+# 🚀 IndaSocial MVP - 
 
 ## 📦 ¿Qué es esto?
 
